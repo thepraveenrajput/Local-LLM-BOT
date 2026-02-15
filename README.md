@@ -57,4 +57,5 @@ project-folder/
 pip install -r requirements.txt
 ```
 
+<img width="1469" height="840" alt="Screenshot 2026-02-15 at 09 48 40" src="https://github.com/user-attachments/assets/d7d60eb4-6efa-46e3-896d-f57777951853" />
 
